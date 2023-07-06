@@ -189,7 +189,7 @@ img {
     content: "";
     width: 100%;
     height: 92%;
-    background: url('../Images/g18.png') no-repeat center center/cover;
+    background: url('g18.png') no-repeat center center/cover;
   /*  top: 0;  */
     left: 0;
     position: absolute;
